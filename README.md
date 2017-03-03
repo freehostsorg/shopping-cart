@@ -3,7 +3,7 @@ Radixmo Shopping Cart 1.0
 
 Radixmo Shopping Cart is a quick and easy way to download WordPress with Woocommerce and other selected plugins ready for installation.
 
-The script downloads and unzips WordPress and plugins you want. It is far quicker than downloading the packages to your local machine, extracting them and then uploading them to your server manually via FTP.
+The script downloads and unzips WordPress and any free plugins you want. It is far quicker than downloading the packages to your local machine, extracting them and then uploading them to your server manually via FTP.
 
 Usage
 ================
