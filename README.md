@@ -30,9 +30,9 @@ Changelog
 Copyright
 ================
 
-This script is a fork of [WP Quick Install] (https://github.com/GeekPress/WP-Quick-Install "WP Quick Install"). Changes copyright [Len Johnson] (https://twitter.com/radixmo).
+This script is a fork of [WP Quick Install] (https://github.com/GeekPress/WP-Quick-Install "WP Quick Install"). Changes copyright [Len Johnson] (https://twitter.com/radixmo) 2017.
 
 License
 ================
 
-Code released under the GPLv3 License (see liecense.txt).
+Code released under the GPLv3 License (see [license.txt] (https://github.com/radixmo/shopping-cart/blob/master/license.txt)).
