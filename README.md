@@ -8,14 +8,13 @@ Accept the defaults and you will have everything you need to begin intalling one
 Usage
 ================
 
-1. Download this package
-2. Unzip it
-3. Upload the *shopping-cart-master* folder to your web server
-4. Run *shopping-cart-master/index.php* in a web browser
-5. Enter the WordPress version and slugs of free plugins you want
-6. Delete the *shopping-cart-master* folder when prompted
-7. Create a database for WordPress to use on your web server
-8. Run the WP install script by accessing the URL to the path you set
+1. Create a database for WordPress to use and/or have details to hand
+2. Download this package and unzip it
+3. Upload the *shopping-cart-master* folder to your web server 
+5. Run *shopping-cart-master/index.php* in a web browser 
+6. Enter the path to install WordPress, version and slugs of free plugins you want
+7. Run the WP install script by clicking the button at the bottom of the page.
+8. Delete the *shopping-cart-master* folder
 
 Changelog
 ================
