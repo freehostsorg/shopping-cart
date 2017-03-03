@@ -23,4 +23,4 @@ Changelog
 -----------
 * Fixed issues with WP Quick Install not downloading plugins
 * Simplified script to only download WordPress and selected plugins
-* redirect user to default WordPress install screen after pacakges extracted on server
+* User now redirected to default WordPress install screen after pacakges extracted on server
