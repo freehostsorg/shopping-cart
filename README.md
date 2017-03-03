@@ -1,4 +1,4 @@
-Radixmo Shopping Cart 1.0
+Radixmo Shopping Cart Download Script v1.0
 ================
 
 Radixmo Shopping Cart is a quick and easy way to download WordPress with Woocommerce and other selected plugins ready for installation on your web server.
