@@ -11,10 +11,10 @@ Usage
 Simply:
 - download this package
 - unzip it
-- upload the *shopping-cart* folder to your web server
-- go to *shopping-cart/index.php*
+- upload the *shopping-cart-master* folder to your web server
+- go to *shopping-cart-master/index.php* in a web browser
 - complete the short form
-- delete the *shopping-cart* folder when prompted
+- delete the *shopping-cart-master* folder when prompted
 
 Changelog
 ================
