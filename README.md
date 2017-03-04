@@ -1,4 +1,4 @@
-Radixmo Shopping Cart Download Script v1.0
+Shopping Cart Download Script v1.0
 ================
 
 The script is a very quick and easy way to download and unzip WordPress and any free plugins you want. It is far quicker than downloading the packages to your local machine, extracting them and then uploading them to your server manually via FTP.
