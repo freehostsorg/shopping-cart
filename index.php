@@ -186,7 +186,7 @@ if ( isset( $_GET['action'] ) ) {
 				/*	If we have installed WP and Woocommerce successfully - add link to the website for istallation
 				/*--------------------------*/
 
-				echo '<div id="errors" class="alert alert-danger"><p style="margin:0;"><strong>' . _('Warning') . '</strong>: Don\'t forget to delete the <code>shopping-cart</code> folder.</p></div>';
+				echo '<div id="errors" class="alert alert-danger"><p style="margin:0;"><strong>' . _('Warning') . '</strong>: Don\'t forget to delete the <code>shopping-cart-master</code> folder.</p></div>';
 
 				echo '<a href="' . $directory . '" class="button" target="_blank">' . _('Start Installation') . '</a>';
 
